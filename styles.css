@@ -34,6 +34,7 @@ h2 {
     font-size: 0.9rem; 
 }
 .btn-whatsapp {
+    font-size: 90%;
     display: flex;
     align-items: center;
     justify-content: center;
